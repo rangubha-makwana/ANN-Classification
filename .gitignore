@@ -1,0 +1,53 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Virtual environments
+.env/
+venv/
+ENV/
+env/
+env.bak/
+*.env
+*.venv
+
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.tsv
+*.json
+*.xlsx
+*.zip
+*.h5
+*.pkl
+*.joblib
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Python-specific
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Hugging Face cache
+~/.cache/huggingface
+
+
+# other project files Tempory files
+annclassification
+annclassification.zip
+annclassification.zip/
